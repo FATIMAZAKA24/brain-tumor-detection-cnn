@@ -74,4 +74,4 @@ cd brain-tumor-detection-cnn
 pip install -r requirements.txt
 
 # 4. Run the notebook
-jupyter notebook DeepLearningProject.ipynb
+jupyter notebook CNN for Brain Tumour Detection.ipynb
